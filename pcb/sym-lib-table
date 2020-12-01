@@ -1,4 +1,5 @@
 (sym_lib_table
-  (lib (name Puggle-rescue)(type Legacy)(uri ${KIPRJMOD}/puggle-rescue.lib)(options "")(descr ""))
-  (lib (name Puggle)(type Legacy)(uri ${KIPRJMOD}/puggle.lib)(options "")(descr ""))
+  (lib (name Puggle-rescue)(type Legacy)(uri /home/jmnw/documents/projects/201128-puggle-pcb/puggle/pcb/puggle-rescue.lib)(options "")(descr ""))
+  (lib (name Puggle)(type Legacy)(uri /home/jmnw/documents/projects/201128-puggle-pcb/puggle/pcb/puggle.lib)(options "")(descr ""))
+  (lib (name puggle-rescue)(type Legacy)(uri ${KIPRJMOD}/puggle-rescue.lib)(options "")(descr ""))
 )

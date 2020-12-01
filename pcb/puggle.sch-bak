@@ -14,7 +14,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L puggle-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue-SofleKeyboard-rescue SW1
+L SofleKeyboard-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue SW1
 U 1 1 5B7225DA
 P 5800 2900
 F 0 "SW1" H 5800 3050 50  0000 C CNN
@@ -25,7 +25,7 @@ F 3 "" H 5800 2900 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L puggle-rescue:D-Lily58-cache-Lily58_Pro-rescue-SofleKeyboard-rescue D1
+L SofleKeyboard-rescue:D-Lily58-cache-Lily58_Pro-rescue D1
 U 1 1 5B7226E7
 P 6100 3050
 F 0 "D1" V 6146 2971 50  0000 R CNN
@@ -36,7 +36,7 @@ F 3 "" H 6100 3050 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L puggle-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue-SofleKeyboard-rescue SW2
+L SofleKeyboard-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue SW2
 U 1 1 5B7227CD
 P 6600 2900
 F 0 "SW2" H 6600 3050 50  0000 C CNN
@@ -47,7 +47,7 @@ F 3 "" H 6600 2900 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L puggle-rescue:D-Lily58-cache-Lily58_Pro-rescue-SofleKeyboard-rescue D2
+L SofleKeyboard-rescue:D-Lily58-cache-Lily58_Pro-rescue D2
 U 1 1 5B722847
 P 6900 3050
 F 0 "D2" V 6946 2971 50  0000 R CNN
@@ -58,7 +58,7 @@ F 3 "" H 6900 3050 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L puggle-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue-SofleKeyboard-rescue SW3
+L SofleKeyboard-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue SW3
 U 1 1 5B7228F7
 P 7400 2900
 F 0 "SW3" H 7400 3050 50  0000 C CNN
@@ -69,7 +69,7 @@ F 3 "" H 7400 2900 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L puggle-rescue:D-Lily58-cache-Lily58_Pro-rescue-SofleKeyboard-rescue D3
+L SofleKeyboard-rescue:D-Lily58-cache-Lily58_Pro-rescue D3
 U 1 1 5B722950
 P 7700 3050
 F 0 "D3" V 7746 2971 50  0000 R CNN
@@ -80,7 +80,7 @@ F 3 "" H 7700 3050 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L puggle-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue-SofleKeyboard-rescue SW4
+L SofleKeyboard-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue SW4
 U 1 1 5B722A11
 P 8200 2900
 F 0 "SW4" H 8200 3050 50  0000 C CNN
@@ -91,7 +91,7 @@ F 3 "" H 8200 2900 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L puggle-rescue:D-Lily58-cache-Lily58_Pro-rescue-SofleKeyboard-rescue D4
+L SofleKeyboard-rescue:D-Lily58-cache-Lily58_Pro-rescue D4
 U 1 1 5B722A8F
 P 8500 3050
 F 0 "D4" V 8546 2971 50  0000 R CNN
@@ -102,7 +102,7 @@ F 3 "" H 8500 3050 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L puggle-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue-SofleKeyboard-rescue SW5
+L SofleKeyboard-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue SW5
 U 1 1 5B722B51
 P 9000 2900
 F 0 "SW5" H 9000 3050 50  0000 C CNN
@@ -113,7 +113,7 @@ F 3 "" H 9000 2900 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L puggle-rescue:D-Lily58-cache-Lily58_Pro-rescue-SofleKeyboard-rescue D5
+L SofleKeyboard-rescue:D-Lily58-cache-Lily58_Pro-rescue D5
 U 1 1 5B722BAD
 P 9300 3050
 F 0 "D5" V 9346 2971 50  0000 R CNN
@@ -124,7 +124,7 @@ F 3 "" H 9300 3050 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L puggle-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue-SofleKeyboard-rescue SW6
+L SofleKeyboard-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue SW6
 U 1 1 5B722CA9
 P 5800 3550
 F 0 "SW6" H 5800 3700 50  0000 C CNN
@@ -135,7 +135,7 @@ F 3 "" H 5800 3550 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L puggle-rescue:D-Lily58-cache-Lily58_Pro-rescue-SofleKeyboard-rescue D6
+L SofleKeyboard-rescue:D-Lily58-cache-Lily58_Pro-rescue D6
 U 1 1 5B722FE1
 P 6100 3700
 F 0 "D6" V 6146 3621 50  0000 R CNN
@@ -146,7 +146,7 @@ F 3 "" H 6100 3700 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L puggle-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue-SofleKeyboard-rescue SW8
+L SofleKeyboard-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue SW8
 U 1 1 5B723388
 P 7400 3550
 F 0 "SW8" H 7400 3700 50  0000 C CNN
@@ -157,7 +157,7 @@ F 3 "" H 7400 3550 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L puggle-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue-SofleKeyboard-rescue SW9
+L SofleKeyboard-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue SW9
 U 1 1 5B723731
 P 8200 3550
 F 0 "SW9" H 8200 3700 50  0000 C CNN
@@ -168,7 +168,7 @@ F 3 "" H 8200 3550 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L puggle-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue-SofleKeyboard-rescue SW10
+L SofleKeyboard-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue SW10
 U 1 1 5B7237A6
 P 9000 3550
 F 0 "SW10" H 9000 3700 50  0000 C CNN
@@ -179,7 +179,7 @@ F 3 "" H 9000 3550 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L puggle-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue-SofleKeyboard-rescue SW11
+L SofleKeyboard-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue SW11
 U 1 1 5B72387D
 P 5800 4200
 F 0 "SW11" H 5800 4350 50  0000 C CNN
@@ -190,7 +190,7 @@ F 3 "" H 5800 4200 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L puggle-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue-SofleKeyboard-rescue SW12
+L SofleKeyboard-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue SW12
 U 1 1 5B723AD3
 P 6600 4200
 F 0 "SW12" H 6600 4350 50  0000 C CNN
@@ -201,7 +201,7 @@ F 3 "" H 6600 4200 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L puggle-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue-SofleKeyboard-rescue SW7
+L SofleKeyboard-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue SW7
 U 1 1 5B723C9D
 P 6600 3550
 F 0 "SW7" H 6600 3700 50  0000 C CNN
@@ -212,7 +212,7 @@ F 3 "" H 6600 3550 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L puggle-rescue:D-Lily58-cache-Lily58_Pro-rescue-SofleKeyboard-rescue D7
+L SofleKeyboard-rescue:D-Lily58-cache-Lily58_Pro-rescue D7
 U 1 1 5B723D94
 P 6900 3700
 F 0 "D7" V 6946 3621 50  0000 R CNN
@@ -223,7 +223,7 @@ F 3 "" H 6900 3700 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L puggle-rescue:D-Lily58-cache-Lily58_Pro-rescue-SofleKeyboard-rescue D8
+L SofleKeyboard-rescue:D-Lily58-cache-Lily58_Pro-rescue D8
 U 1 1 5B723E5F
 P 7700 3700
 F 0 "D8" V 7746 3621 50  0000 R CNN
@@ -234,7 +234,7 @@ F 3 "" H 7700 3700 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L puggle-rescue:D-Lily58-cache-Lily58_Pro-rescue-SofleKeyboard-rescue D9
+L SofleKeyboard-rescue:D-Lily58-cache-Lily58_Pro-rescue D9
 U 1 1 5B723FA1
 P 8500 3700
 F 0 "D9" V 8546 3621 50  0000 R CNN
@@ -245,7 +245,7 @@ F 3 "" H 8500 3700 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L puggle-rescue:D-Lily58-cache-Lily58_Pro-rescue-SofleKeyboard-rescue D10
+L SofleKeyboard-rescue:D-Lily58-cache-Lily58_Pro-rescue D10
 U 1 1 5B7240EA
 P 9300 3700
 F 0 "D10" V 9346 3621 50  0000 R CNN
@@ -256,7 +256,7 @@ F 3 "" H 9300 3700 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L puggle-rescue:D-Lily58-cache-Lily58_Pro-rescue-SofleKeyboard-rescue D11
+L SofleKeyboard-rescue:D-Lily58-cache-Lily58_Pro-rescue D11
 U 1 1 5B72424D
 P 6100 4350
 F 0 "D11" V 6146 4271 50  0000 R CNN
@@ -267,7 +267,7 @@ F 3 "" H 6100 4350 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L puggle-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue-SofleKeyboard-rescue SW13
+L SofleKeyboard-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue SW13
 U 1 1 5B7250AD
 P 7400 4200
 F 0 "SW13" H 7400 4350 50  0000 C CNN
@@ -278,7 +278,7 @@ F 3 "" H 7400 4200 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L puggle-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue-SofleKeyboard-rescue SW14
+L SofleKeyboard-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue SW14
 U 1 1 5B725133
 P 8200 4200
 F 0 "SW14" H 8200 4350 50  0000 C CNN
@@ -289,7 +289,7 @@ F 3 "" H 8200 4200 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L puggle-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue-SofleKeyboard-rescue SW15
+L SofleKeyboard-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue SW15
 U 1 1 5B7251BF
 P 9000 4200
 F 0 "SW15" H 9000 4350 50  0000 C CNN
@@ -300,7 +300,7 @@ F 3 "" H 9000 4200 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L puggle-rescue:D-Lily58-cache-Lily58_Pro-rescue-SofleKeyboard-rescue D13
+L SofleKeyboard-rescue:D-Lily58-cache-Lily58_Pro-rescue D13
 U 1 1 5B7254EE
 P 7700 4350
 F 0 "D13" V 7746 4271 50  0000 R CNN
@@ -311,7 +311,7 @@ F 3 "" H 7700 4350 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L puggle-rescue:D-Lily58-cache-Lily58_Pro-rescue-SofleKeyboard-rescue D14
+L SofleKeyboard-rescue:D-Lily58-cache-Lily58_Pro-rescue D14
 U 1 1 5B7255FF
 P 8500 4350
 F 0 "D14" V 8546 4271 50  0000 R CNN
@@ -322,7 +322,7 @@ F 3 "" H 8500 4350 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L puggle-rescue:D-Lily58-cache-Lily58_Pro-rescue-SofleKeyboard-rescue D15
+L SofleKeyboard-rescue:D-Lily58-cache-Lily58_Pro-rescue D15
 U 1 1 5B72571C
 P 9300 4350
 F 0 "D15" V 9346 4271 50  0000 R CNN
@@ -333,7 +333,7 @@ F 3 "" H 9300 4350 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L puggle-rescue:D-Lily58-cache-Lily58_Pro-rescue-SofleKeyboard-rescue D16
+L SofleKeyboard-rescue:D-Lily58-cache-Lily58_Pro-rescue D16
 U 1 1 5B725841
 P 6100 5000
 F 0 "D16" V 6146 4921 50  0000 R CNN
@@ -344,7 +344,7 @@ F 3 "" H 6100 5000 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L puggle-rescue:D-Lily58-cache-Lily58_Pro-rescue-SofleKeyboard-rescue D17
+L SofleKeyboard-rescue:D-Lily58-cache-Lily58_Pro-rescue D17
 U 1 1 5B72596D
 P 6900 5000
 F 0 "D17" V 6946 4921 50  0000 R CNN
@@ -355,7 +355,7 @@ F 3 "" H 6900 5000 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L puggle-rescue:D-Lily58-cache-Lily58_Pro-rescue-SofleKeyboard-rescue D18
+L SofleKeyboard-rescue:D-Lily58-cache-Lily58_Pro-rescue D18
 U 1 1 5B725AA2
 P 7700 5000
 F 0 "D18" V 7746 4921 50  0000 R CNN
@@ -366,7 +366,7 @@ F 3 "" H 7700 5000 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L puggle-rescue:D-Lily58-cache-Lily58_Pro-rescue-SofleKeyboard-rescue D19
+L SofleKeyboard-rescue:D-Lily58-cache-Lily58_Pro-rescue D19
 U 1 1 5B72767A
 P 8500 5000
 F 0 "D19" V 8546 4921 50  0000 R CNN
@@ -377,7 +377,7 @@ F 3 "" H 8500 5000 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L puggle-rescue:D-Lily58-cache-Lily58_Pro-rescue-SofleKeyboard-rescue D20
+L SofleKeyboard-rescue:D-Lily58-cache-Lily58_Pro-rescue D20
 U 1 1 5B7277CE
 P 9300 5000
 F 0 "D20" V 9346 4921 50  0000 R CNN
@@ -427,7 +427,7 @@ row2
 Text GLabel 2550 3000 0    50   Input ~ 0
 row3
 $Comp
-L puggle-rescue:GND-Lily58-cache-Lily58_Pro-rescue-SofleKeyboard-rescue #PWR010
+L SofleKeyboard-rescue:GND-Lily58-cache-Lily58_Pro-rescue #PWR010
 U 1 1 5B74C10F
 P 2350 3700
 F 0 "#PWR010" H 2350 3450 50  0001 C CNN
@@ -440,7 +440,7 @@ $EndComp
 Text GLabel 2650 3700 2    50   Input ~ 0
 RESET
 $Comp
-L puggle-rescue:PWR_FLAG-Lily58-cache-Lily58_Pro-rescue-SofleKeyboard-rescue #FLG01
+L SofleKeyboard-rescue:PWR_FLAG-Lily58-cache-Lily58_Pro-rescue #FLG01
 U 1 1 5B74C681
 P 9900 6150
 F 0 "#FLG01" H 9900 6225 50  0001 C CNN
@@ -451,7 +451,7 @@ F 3 "" H 9900 6150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L puggle-rescue:GND-Lily58-cache-Lily58_Pro-rescue-SofleKeyboard-rescue #PWR012
+L SofleKeyboard-rescue:GND-Lily58-cache-Lily58_Pro-rescue #PWR012
 U 1 1 5B74C7EB
 P 9900 6150
 F 0 "#PWR012" H 9900 5900 50  0001 C CNN
@@ -462,7 +462,7 @@ F 3 "" H 9900 6150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L puggle-rescue:VCC-Lily58-cache-Lily58_Pro-rescue-SofleKeyboard-rescue #PWR013
+L SofleKeyboard-rescue:VCC-Lily58-cache-Lily58_Pro-rescue #PWR013
 U 1 1 5B74C8DE
 P 10250 6150
 F 0 "#PWR013" H 10250 6000 50  0001 C CNN
@@ -473,7 +473,7 @@ F 3 "" H 10250 6150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L puggle-rescue:PWR_FLAG-Lily58-cache-Lily58_Pro-rescue-SofleKeyboard-rescue #FLG02
+L SofleKeyboard-rescue:PWR_FLAG-Lily58-cache-Lily58_Pro-rescue #FLG02
 U 1 1 5B74C9D1
 P 10250 6150
 F 0 "#FLG02" H 10250 6225 50  0001 C CNN
@@ -484,7 +484,7 @@ F 3 "" H 10250 6150 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L puggle-rescue:HOLE-Lily58-cache-Lily58_Pro-rescue-SofleKeyboard-rescue TH4
+L SofleKeyboard-rescue:HOLE-Lily58-cache-Lily58_Pro-rescue TH4
 U 1 1 5B74D1C0
 P 8450 6150
 F 0 "TH4" H 8450 6150 60  0000 C CNN
@@ -495,7 +495,7 @@ F 3 "" H 8450 6150 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L puggle-rescue:HOLE-Lily58-cache-Lily58_Pro-rescue-SofleKeyboard-rescue TH5
+L SofleKeyboard-rescue:HOLE-Lily58-cache-Lily58_Pro-rescue TH5
 U 1 1 5B74D78B
 P 8800 6150
 F 0 "TH5" H 8800 6150 60  0000 C CNN
@@ -506,7 +506,7 @@ F 3 "" H 8800 6150 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L puggle-rescue:HOLE-Lily58-cache-Lily58_Pro-rescue-SofleKeyboard-rescue TH6
+L SofleKeyboard-rescue:HOLE-Lily58-cache-Lily58_Pro-rescue TH6
 U 1 1 5B74D88C
 P 9150 6150
 F 0 "TH6" H 9150 6150 60  0000 C CNN
@@ -517,7 +517,7 @@ F 3 "" H 9150 6150 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L puggle-rescue:HOLE-Lily58-cache-Lily58_Pro-rescue-SofleKeyboard-rescue TH7
+L SofleKeyboard-rescue:HOLE-Lily58-cache-Lily58_Pro-rescue TH7
 U 1 1 5B74D98F
 P 9500 6150
 F 0 "TH7" H 9500 6150 60  0000 C CNN
@@ -528,7 +528,7 @@ F 3 "" H 9500 6150 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L puggle-rescue:HOLE-Lily58-cache-Lily58_Pro-rescue-SofleKeyboard-rescue TH3
+L SofleKeyboard-rescue:HOLE-Lily58-cache-Lily58_Pro-rescue TH3
 U 1 1 5B74DA95
 P 8100 6150
 F 0 "TH3" H 8100 6150 60  0000 C CNN
@@ -563,7 +563,7 @@ Wire Wire Line
 	6100 4500 5250 4500
 Connection ~ 6100 4500
 $Comp
-L puggle-rescue:SW_RST-Lily58-cache-Lily58_Pro-rescue-SofleKeyboard-rescue RSW1
+L SofleKeyboard-rescue:SW_RST-Lily58-cache-Lily58_Pro-rescue RSW1
 U 1 1 5B8CE7E7
 P 2500 3700
 F 0 "RSW1" H 2500 3956 40  0000 C CNN
@@ -578,7 +578,7 @@ Wire Wire Line
 Wire Wire Line
 	3850 2200 4150 2200
 $Comp
-L puggle-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue-SofleKeyboard-rescue SW18
+L SofleKeyboard-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue SW18
 U 1 1 5B725398
 P 7400 4850
 F 0 "SW18" H 7400 5000 50  0000 C CNN
@@ -589,7 +589,7 @@ F 3 "" H 7400 4850 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L puggle-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue-SofleKeyboard-rescue SW16
+L SofleKeyboard-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue SW16
 U 1 1 5B72524E
 P 5800 4850
 F 0 "SW16" H 5800 5000 50  0000 C CNN
@@ -600,7 +600,7 @@ F 3 "" H 5800 4850 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L puggle-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue-SofleKeyboard-rescue SW17
+L SofleKeyboard-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue SW17
 U 1 1 5B7252F1
 P 6600 4850
 F 0 "SW17" H 6600 5000 50  0000 C CNN
@@ -611,7 +611,7 @@ F 3 "" H 6600 4850 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L puggle-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue-SofleKeyboard-rescue SW19
+L SofleKeyboard-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue SW19
 U 1 1 5B727312
 P 8200 4850
 F 0 "SW19" H 8200 5000 50  0000 C CNN
@@ -622,7 +622,7 @@ F 3 "" H 8200 4850 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L puggle-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue-SofleKeyboard-rescue SW20
+L SofleKeyboard-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue SW20
 U 1 1 5B727256
 P 9000 4850
 F 0 "SW20" H 9000 5000 50  0000 C CNN
@@ -655,7 +655,7 @@ Wire Wire Line
 Wire Wire Line
 	6900 4500 7700 4500
 $Comp
-L puggle-rescue:D-Lily58-cache-Lily58_Pro-rescue-SofleKeyboard-rescue D12
+L SofleKeyboard-rescue:D-Lily58-cache-Lily58_Pro-rescue D12
 U 1 1 5B7243C0
 P 6900 4350
 F 0 "D12" V 6946 4271 50  0000 R CNN
@@ -716,7 +716,7 @@ Wire Wire Line
 Wire Wire Line
 	8700 2900 8700 3550
 $Comp
-L puggle-rescue:ProMicro_2-Lily58-cache-Lily58_Pro-rescue-SofleKeyboard-rescue U1
+L SofleKeyboard-rescue:ProMicro_2-Lily58-cache-Lily58_Pro-rescue U1
 U 1 1 5B722440
 P 3200 2650
 F 0 "U1" H 3200 3350 60  0000 C CNN
@@ -728,7 +728,7 @@ F 3 "" H 3300 1600 60  0000 C CNN
 $EndComp
 NoConn ~ 2550 2100
 $Comp
-L puggle-rescue:MJ-4PP-9-Lily58-cache-Lily58_Pro-rescue-SofleKeyboard-rescue J2
+L SofleKeyboard-rescue:MJ-4PP-9-Lily58-cache-Lily58_Pro-rescue J2
 U 1 1 5FCB9137
 P 3100 4500
 F 0 "J2" H 3133 4897 60  0000 C CNN
