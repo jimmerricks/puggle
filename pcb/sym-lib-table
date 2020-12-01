@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Puggle-rescue)(type Legacy)(uri ${KIPRJMOD}/puggle-rescue.lib)(options "")(descr ""))
+  (lib (name Puggle)(type Legacy)(uri ${KIPRJMOD}/puggle.lib)(options "")(descr ""))
+)
